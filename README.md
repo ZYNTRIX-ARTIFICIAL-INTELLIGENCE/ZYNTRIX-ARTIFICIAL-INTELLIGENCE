@@ -197,7 +197,7 @@ Prinsip_Kerja:
 
 ### 🔴 Red Team (Offensive)
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Hacking"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdpYXVoOHFpbG1kZGd3a3dhYTNmaGt3N2ozaTA1eWFkNzF5OWJtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGwTq3G6a39cI/giphy.gif" width="200" alt="Hacking"/>
 
 </div>
 
@@ -226,7 +226,7 @@ Prinsip_Kerja:
 
 ### 🔵 Blue Team (Defensive)
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Defense"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw2ZDFkZ2o0YzZ4NXVwd3lreWIzM3gyN2Vqdjh6Nmc2a2JwcnExaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zyFcsWHX2fdpyb5SBi/giphy.gif" width="200" alt="Defense"/>
 
 </div>
 
@@ -477,11 +477,10 @@ Prinsip_Kerja:
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Learning & Development
 
-<img align="right" alt="Learning" width="350" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzAybzJhN3NpbHd3ZGt0Nmw4NjNpYWE0eHZ2em84YWRvaTBuYzN4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aDuF2saAHaJbRKqwAb/giphy.gif">
 
 ### 📚 Currently Learning
 
